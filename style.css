@@ -1,0 +1,30 @@
+body{
+
+  background-color: black;
+}
+h1{
+  font-size: 3rem;
+  text-align: center;
+}
+h2{
+  font-size: 3rem;
+  text-align: center;
+}
+
+.sam {
+  color: aliceblue;
+width: 50%;
+  margin-top: 100px;
+  margin-left: 25%;
+color: white;
+text-align: center;
+}
+
+.image {
+
+  border: 5px solid white;
+  width: 100%;
+  
+
+}
+
